@@ -2,7 +2,7 @@
 Univ of Denver: Data Analytics | July 2024 | Andrew Mack
 
 ### Summary
-The purpose of this proejct is to utilize knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+The purpose of this project is to utilize knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 The following stages were involved:
 - Finding the best value for k after scaling a dataframe
